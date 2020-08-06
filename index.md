@@ -2,13 +2,11 @@
 
 ## What's Password Night?
 
-It's an informal get together with people that are in the same boat that never find the time for this stuff. A chance to take some time and think about security of your online accounts and learn ways to protect yourself.
+A chance to take some time and think about security of your online accounts and learn ways to protect yourself. It's an informal get together with people that are in the same boat that never find the time for this stuff.
 
 I’ve been creating internet accounts since I was in early teens and some of them are still “active”. Time to time I remember them and think about that password I reused a bunch of times in 2010 and never changed.
 
 **Let’s take an hour to update old, bad, reused passwords to something better, and deactivate old accounts.**
-
-Join the Farset Labs Discord to participate.
 
 ## Learning Resources
 
