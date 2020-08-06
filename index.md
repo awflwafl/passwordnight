@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+# Welcome to Password Night
 
-You can use the [editor on GitHub](https://github.com/awflwafl/passwordnight.org/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## What's Password Night?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+It's an informal get together with people that are in the same boat that never find the time for this stuff. A chance to take some time and think about security of your online accounts and learn ways to protect yourself.
 
-### Markdown
+I’ve been creating internet accounts since I was in early teens and some of them are still “active”. Time to time I remember them and think about that password I reused a bunch of times in 2010 and never changed.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Let’s take an hour to update old, bad, reused passwords to something better, and deactivate old accounts.**
 
-```markdown
-Syntax highlighted code block
+Join the Farset Labs Discord to participate.
 
-# Header 1
-## Header 2
-### Header 3
+## Learning Resources
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/awflwafl/passwordnight.org/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* [';--have i been pwned?](https://haveibeenpwned.com/)
+* [NCSC Cyber Aware](https://www.ncsc.gov.uk/cyberaware/home)
+* [NCSC Passwords](https://www.ncsc.gov.uk/search?q=passwords&start=0&rows=20)
+* [LastPass](https://www.lastpass.com/)
+* [Authy](https://authy.com/)
+* [Have You Been Pwned? - Computerphile](https://www.youtube.com/watch?v=hhUb5iknVJs)
+* [How to Choose a Password - Computerphile](https://www.youtube.com/watch?v=3NjQ9b3pgIg)
+* [Password Cracking - Computerphile](https://www.youtube.com/watch?v=7U-RbOKanYs)
+* [How Password Managers Work - Computerphile](https://www.youtube.com/watch?v=w68BBPDAWr8)
+* [2FA: Two Factor Authentication - Computerphile](https://www.youtube.com/watch?v=ZXFYT-BG2So)
+* [Diceware & Passwords - Computerphile](https://www.youtube.com/watch?v=Pe_3cFuSw1E)
