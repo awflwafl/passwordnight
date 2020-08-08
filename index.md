@@ -1,16 +1,20 @@
+# Password Night
+
 ## What's [#PasswordNight]?
 
-Welcome to [#PasswordNight]
+Welcome to [#PasswordNight]!
 
-This is a chance to take some time and improve your personal online security, learning along the way. [#PasswordNight] is an informal get together of people in the same boat of never finding the time for this stuff.
+This is your chance to take some time and improve your personal online security, learning along the way. [#PasswordNight] is an informal get together of people in the same boat of never finding the time for this stuff.
+
+**Let’s take an hour to update old, bad, reused passwords to something better, and learn about personal online security along the way.**
+
+Got a personal security win as part of [#PasswordNight]? Tweet with the hashtag [#PasswordNight] to share it and spread the word about these events!
 
 > I’ve been creating online accounts since I was in early teens. Some of them are still “active” or at least existing.
 > Time to time I remember them and think about that password I reused a bunch of times in 2010 and never changed.
 > I know these things are bad, but I never really set aside the time to fix that.
 > That's why I'm doing a [#PasswordNight].
-> *[--Art (@awflwafl) 2019](https://twitter.com/awflwafl)*
-
-**Let’s take an hour to update old, bad, reused passwords to something better, and deactivate old accounts.**
+> *[--Art](https://twitter.com/awflwafl)*
 
 ## Step 1: Is your information exposed?
 
@@ -52,6 +56,14 @@ Enable 2-factor authentication for critical accounts.
 ## Step 5: Host a [#PasswordNight]
 
 Host a [#PasswordNight] to help your family and friends improve their personal online security.
+
+### Do I need permission to run a [#PasswordNight]?
+
+No! You can run an independent [#PasswordNight] without seeking permission from the project.
+
+### I want to do it differently. Do I have to do it exactly like this?
+
+No! You are free to use this resource as inspiration and make your own adaptations. You are also welcome and encouraged to share ideas for improving the project
 
 ## Learn More
 
